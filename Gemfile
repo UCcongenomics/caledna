@@ -32,7 +32,7 @@ gem 'mini_magick', '~> 4.10.1' # resize ActiveStorage images
 gem 'pg', '~> 0.21'
 gem 'pg_query', '>= 0.9.0'
 gem 'pg_search', '~> 2.1.2'
-gem 'pghero', '~> 2.6.0'
+gem 'pghero', '~> 2.7.0'
 gem 'photoswipe-rails', '~> 4.1', '>= 4.1.2'
 gem 'puma', '~> 3.11'
 gem 'pundit', '~> 1.1.0'
